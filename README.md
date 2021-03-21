@@ -1,2 +1,1 @@
-# Hello-world
-My training at Java guru.
+My template page
